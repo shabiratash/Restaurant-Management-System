@@ -1,0 +1,8 @@
+2026-06-18 10:36:03 | INFO     | database.connection | Opened database connection at E:\Projects\Motaqi\data\restaurant.db
+2026-06-18 10:36:03 | INFO     | database.schema | Database schema verified
+2026-06-18 10:36:05 | INFO     | main | Motaqi Restaurant Manager started
+2026-06-18 10:50:34 | INFO     | database.connection | Opened database connection at E:\Projects\Motaqi\data\restaurant.db
+2026-06-18 10:50:34 | INFO     | database.schema | Database schema verified
+2026-06-18 10:50:35 | INFO     | main | Restaurant Management System started
+2026-06-18 10:50:46 | INFO     | services.auth_service | User 'admin' logged in (Admin)
+2026-06-18 10:50:46 | INFO     | views.main_window | Building app shell for admin

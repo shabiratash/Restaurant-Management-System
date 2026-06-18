@@ -1,0 +1,31 @@
+2026-06-17 23:19:59 | INFO     | database.connection | Opened database connection at E:\Projects\Motaqi\data\restaurant.db
+2026-06-17 23:19:59 | INFO     | database.schema | Database schema verified
+2026-06-17 23:19:59 | INFO     | database.seed | Seeding database with demo data
+2026-06-17 23:20:00 | INFO     | database.seed | Seeding complete
+2026-06-17 23:20:00 | INFO     | services.auth_service | User 'admin' logged in (Admin)
+2026-06-17 23:20:00 | INFO     | views.main_window | Building app shell for admin
+2026-06-17 23:20:27 | INFO     | database.connection | Opened database connection at E:\Projects\Motaqi\data\restaurant.db
+2026-06-17 23:20:27 | INFO     | database.schema | Database schema verified
+2026-06-17 23:20:27 | INFO     | services.auth_service | User 'admin' logged in (Admin)
+2026-06-17 23:20:27 | INFO     | views.main_window | Building app shell for admin
+2026-06-17 23:20:50 | INFO     | database.connection | Opened database connection at E:\Projects\Motaqi\data\restaurant.db
+2026-06-17 23:20:50 | INFO     | database.schema | Database schema verified
+2026-06-17 23:20:50 | INFO     | services.auth_service | User 'admin' logged in (Admin)
+2026-06-17 23:20:50 | INFO     | views.main_window | Building app shell for admin
+2026-06-17 23:20:51 | INFO     | services.auth_service | User 'admin' logged out
+2026-06-17 23:21:21 | INFO     | database.connection | Opened database connection at E:\Projects\Motaqi\data\restaurant.db
+2026-06-17 23:21:21 | INFO     | database.schema | Database schema verified
+2026-06-17 23:21:21 | INFO     | services.auth_service | User 'admin' logged in (Admin)
+2026-06-17 23:21:21 | INFO     | views.main_window | Building app shell for admin
+2026-06-17 23:21:23 | INFO     | services.auth_service | User 'admin' logged out
+2026-06-17 23:22:37 | INFO     | database.connection | Opened database connection at E:\Projects\Motaqi\data\restaurant.db
+2026-06-17 23:22:37 | INFO     | database.schema | Database schema verified
+2026-06-17 23:22:38 | INFO     | main | Motaqi Restaurant Manager started
+2026-06-17 23:23:02 | INFO     | services.auth_service | User 'admin' logged in (Admin)
+2026-06-17 23:23:02 | INFO     | views.main_window | Building app shell for admin
+2026-06-17 23:24:22 | INFO     | services.auth_service | User 'admin' logged out
+2026-06-17 23:24:36 | INFO     | services.auth_service | User 'manager' logged in (Manager)
+2026-06-17 23:24:36 | INFO     | views.main_window | Building app shell for manager
+2026-06-17 23:24:46 | INFO     | services.auth_service | User 'manager' logged out
+2026-06-17 23:25:06 | INFO     | services.auth_service | User 'cashier' logged in (Cashier)
+2026-06-17 23:25:06 | INFO     | views.main_window | Building app shell for cashier
